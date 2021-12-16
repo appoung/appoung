@@ -1,8 +1,6 @@
 <p>
-  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:appoung@naver.com"><img src="https://img.shields.io/badge/appoung@naver.com-green?style=flat-square&logo=naver&logoColor=white&link=mailto:appoung@naver.com"/></a>
+  <a href="https://youtube.com/c/%ED%95%9C%EB%B3%91%EC%A4%80tv" target="_blank"><img src="https://img.shields.io/badge/한병준tv-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
 <p>
