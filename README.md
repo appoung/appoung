@@ -24,5 +24,4 @@
   <img src="https://img.shields.io/badge/Ubuntu-#E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-#00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-#019733?style=flat-square&logo=Vim&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vim-#019733?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
