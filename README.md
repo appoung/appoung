@@ -1,4 +1,3 @@
-[![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-blue.svg)](https://github.com/ByeongJunHan/ramenDB)
 <p>
   <a href="mailto:appoung@naver.com"><img src="https://img.shields.io/badge/appoung@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:appoung@naver.com"/></a>
   <a href="https://youtube.com/c/%ED%95%9C%EB%B3%91%EC%A4%80tv" target="_blank"><img src="https://img.shields.io/badge/한병준tv-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
