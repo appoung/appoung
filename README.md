@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=SQLite%20Cordova&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
