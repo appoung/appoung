@@ -30,10 +30,10 @@
 
 [![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-blue.svg)](https://github.com/ByeongJunHan/ramenDB)
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-SffdMap-orange.svg)](https://github.com/ByeongJunHan/sffd_map)
+[![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-orange.svg)](https://github.com/ByeongJunHan/sffd_map)
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-Karaoke-purple.svg)](https://github.com/ByeongJunHan/karaoke)
+[![Github: Karaoke](https://img.shields.io/badge/Github-Karaoke-purple.svg)](https://github.com/ByeongJunHan/karaoke)
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-UrlTool-green.svg)](https://github.com/ByeongJunHan/url-tool)
+[![Github: Urltool](https://img.shields.io/badge/Github-UrlTool-green.svg)](https://github.com/ByeongJunHan/url-tool)
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-KoreaNameToRomaName-brown.svg)](https://github.com/ByeongJunHan/korea_name_to_roma_name)
+[![Github: KoreaNameToRomaName](https://img.shields.io/badge/Github-KoreaNameToRomaName-brown.svg)](https://github.com/ByeongJunHan/korea_name_to_roma_name)
