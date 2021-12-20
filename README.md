@@ -7,7 +7,7 @@
   👋&nbsp; Hi there! I'm <b>program developer</b> using Python. 🚀<br/>
   Sometimes I develop things that i want! I love coding!. 💖<br/><br/>
   I Enjoy Making Songs, Playing Guitar,Piano. ⛰ 🏄<br/>
-  I am Student in Anyang,SouthKorea. ✨ <br/><br/>
+  I am Student in Anyang, Korea. ✨ <br/><br/>
 </p>
 
 ### 💪 Skills
