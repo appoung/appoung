@@ -32,7 +32,7 @@
 
 [![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-orange.svg)](https://github.com/ByeongJunHan/sffd_map)
 
-[![Github: Karaoke](https://img.shields.io/badge/Github-Karaoke-purple.svg)](https://github.com/ByeongJunHan/karaoke)
+[![Github: Django-Instagram](https://img.shields.io/badge/Github-Karaoke-purple.svg)](https://github.com/ByeongJunHan/Django-Instagram)
 
 [![Github: Urltool](https://img.shields.io/badge/Github-UrlTool-green.svg)](https://github.com/ByeongJunHan/url-tool)
 
