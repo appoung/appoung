@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/Sqlite-97A7B3?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-EF476F?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Ubuntu-06D6A0?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-1B9AAA?style=flat-square&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-FFC43D?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
 
 ### Projects
