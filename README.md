@@ -28,7 +28,7 @@
 
 ### Projects
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-blue.svg)](https://github.com/ByeongJunHan/ramenDB)
+[![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-A22846.svg)](https://github.com/ByeongJunHan/ramenDB)
 
 [![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-orange.svg)](https://github.com/ByeongJunHan/sffd_map)
 
