@@ -13,11 +13,11 @@
 ### 💪 Skills
 #### Packages & Languages & Hardwares & Os & Ide
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-CAE7B9?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-F3DE8A?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-EB9486?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html5-7E7F9A?style=flat-square&logo=Html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sqlite-97A7B3?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
