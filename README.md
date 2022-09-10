@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-CAE7B9?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-F3DE8A?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-EB9486?style=flat-square&logo=Django&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Html5-7E7F9A?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sqlite-97A7B3?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
@@ -24,6 +23,8 @@
   <img src="https://img.shields.io/badge/RaspberryPi-EF476F?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-06D6A0?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-1B9AAA?style=flat-square&logo=Arduino&logoColor=white"/>
+  
+
   <img src="https://img.shields.io/badge/Vim-FFC43D?style=flat-square&logo=Vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vscode-3590F3?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
