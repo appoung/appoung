@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-06D6A0?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-1B9AAA?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-FFC43D?style=flat-square&logo=Vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vscode-3590F3?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
 
 ### Projects
