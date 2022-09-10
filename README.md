@@ -8,6 +8,7 @@
   Sometimes I develop things that i want! I love coding!. 💖<br/><br/>
   I Enjoy Making Songs, Playing Guitar,Piano. ⛰ 🏄<br/>
   I am Student in Anyang, Korea. ✨ <br/><br/>
+  I learned programing by searching internet and i started it because of fun
 </p>
 
 ### 💪 Skills
