@@ -45,4 +45,4 @@
 
 [![Github: MiniEyesWatch](https://img.shields.io/badge/Github-MiniEyesWatch-8BE8CB.svg)](https://github.com/appoung/MiniEyesWatch)
 
-[![Github: js-chromeapp](https://img.shields.io/badge/Github-jscheomeapp-f0db4f.svg)](https://github.com/appoung/js-chromeapp)
+[![Github: js-chromeapp](https://img.shields.io/badge/Github-jschromeapp-f0db4f.svg)](https://github.com/appoung/js-chromeapp)
