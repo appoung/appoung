@@ -11,12 +11,18 @@
   I learned programing by searching internet and i started it because of fun.
   Some people saying i am good at coding because of my dad. However, it's not true! I learned coding without dad's help!
 </p>
+
+
+
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appoung&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=appoung&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+
+
+
 ### 💪 Skills
 #### Packages & Languages & Hardwares & Os & Ide
 <p>
