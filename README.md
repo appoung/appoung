@@ -5,20 +5,18 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>program developer</b> using Python. 🚀<br/>
-  Sometimes I develop things that i want! I love coding!. 💖<br/><br/>
-  I Enjoy Making Songs, Playing Guitar,Piano. ⛰ 🏄<br/>
+  Sometimes I develop things that I want! I love coding! 💖<br/><br/>
+  I Enjoy Making Songs, Playing Guitar, Piano. ⛰ 🏄<br/>
   I am Student in Anyang, Korea. ✨ <br/><br/>
-  I learned programing by searching internet and i started it because of fun.
-  Some people saying i am good at coding because of my dad. However, it's not true! I learned coding without dad's help!
+  I learned programming by searching the internet and I started it because of fun.
+  Some people say I am good at coding because of my dad. However, it's not true! I learned coding without dad's help!
 </p>
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appoung&langs_count=10&layout=compact&theme=dark)](https://github.com/appoung/appoung)﻿
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appoung&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=appoung&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=appoung&theme=dark&show_icons=true" width="42%" />
 </a>
 
 
@@ -45,8 +43,11 @@
 </p>
 
 ### Projects
+[![Github: ramenV2](https://img.shields.io/badge/Github-ramenV2-6528F7.svg)](https://github.com/appoung/ramen_storageV2)
 [![Github: ramenV2Frontend](https://img.shields.io/badge/Github-ramenV2Frontend-6528F7.svg)](https://github.com/appoung/ramen_storage_frontend)
 [![Github: ramenV2Backend](https://img.shields.io/badge/Github-ramenV2Backend-6528F7.svg)](https://github.com/appoung/ramen_storage_backend)
+
+
 [![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-F5FFC6.svg)](https://github.com/appoung/ramenDB)
 
 [![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-B4E1FF.svg)](https://github.com/appoung/sffd_map)
