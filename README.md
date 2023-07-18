@@ -13,14 +13,6 @@
 </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appoung&langs_count=10&layout=compact&theme=dark)](https://github.com/appoung/appoung)﻿
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=appoung&theme=dark&show_icons=true" width="42%" />
-</a>
-
-
-
 ### 💪 Skills
 #### Packages & Languages & Hardwares & Os & Ide
 <p>
@@ -48,16 +40,25 @@
 [![Github: ramenV2Backend](https://img.shields.io/badge/Github-ramenV2Backend-6528F7.svg)](https://github.com/appoung/ramen_storage_backend)
 
 
-[![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-F5FFC6.svg)](https://github.com/appoung/ramenDB)
+[![Github: MiniEyesWatch](https://img.shields.io/badge/Github-MiniEyesWatch-8BE8CB.svg)](https://github.com/appoung/MiniEyesWatch)
+
+
+
+[![Github: Minecraft_Plugin](https://img.shields.io/badge/Github-Minecraft_Plugin-FFAA00.svg)](https://github.com/appoung/Minecraft_Plugin)
+
 
 [![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-B4E1FF.svg)](https://github.com/appoung/sffd_map)
+
+
+[![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-F5FFC6.svg)](https://github.com/appoung/ramenDB)
+
 
 [![Github: Django-Instagram](https://img.shields.io/badge/Github-Django_Instagram-AB87FF.svg)](https://github.com/appoung/Django_Instagram)
 
 [![Github: Urltool](https://img.shields.io/badge/Github-UrlTool-FFACE4.svg)](https://github.com/appoung/url-tool)
 
+
 [![Github: KoreaNameToRomaName](https://img.shields.io/badge/Github-KoreaNameToRomaName-C1FF9B.svg)](https://github.com/appoung/korea_name_to_roma_name)
 
-[![Github: MiniEyesWatch](https://img.shields.io/badge/Github-MiniEyesWatch-8BE8CB.svg)](https://github.com/appoung/MiniEyesWatch)
 
 [![Github: js-chromeapp](https://img.shields.io/badge/Github-jschromeapp-f0db4f.svg)](https://github.com/appoung/js-chromeapp)
