@@ -43,8 +43,8 @@
 </p>
 
 ### Projects
-[![Github: ramenFrontend](https://img.shields.io/badge/Github-ramenFrontend-F5FFC6.svg)](https://github.com/ByeongJunHan/ramen_storage_frontend)
-[![Github: ramenBackend](https://img.shields.io/badge/Github-ramenBackend-F5FFC6.svg)](https://github.com/ByeongJunHan/ramen_storage_backend)
+[![Github: ramenV2Frontend](https://img.shields.io/badge/Github-ramenV2Frontend-6528F7.svg)](https://github.com/ByeongJunHan/ramen_storage_frontend)
+[![Github: ramenV2Backend](https://img.shields.io/badge/Github-ramenV2Backend-6528F7.svg)](https://github.com/ByeongJunHan/ramen_storage_backend)
 [![Github: ramenDB](https://img.shields.io/badge/Github-ramenDB-F5FFC6.svg)](https://github.com/ByeongJunHan/ramenDB)
 
 [![Github: Sffd_map](https://img.shields.io/badge/Github-SffdMap-B4E1FF.svg)](https://github.com/ByeongJunHan/sffd_map)
