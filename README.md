@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Django-EB9486?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Html5-7E7F9A?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sqlite-97A7B3?style=flat-square&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/RaspberryPi-EF476F?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
