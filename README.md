@@ -14,25 +14,48 @@
 
 
 ### 💪 Skills
-#### Packages & Languages & Hardwares & Os & Ide
-<p>
-  <img src="https://img.shields.io/badge/Python-CAE7B9?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-F3DE8A?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-EB9486?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-7E7F9A?style=flat-square&logo=Html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sqlite-97A7B3?style=flat-square&logo=SQLite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/RaspberryPi-EF476F?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Ubuntu-06D6A0?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-1B9AAA?style=flat-square&logo=Arduino&logoColor=white"/>
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <br>
   
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+  
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  
+  
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
 
-  <img src="https://img.shields.io/badge/Vim-FFC43D?style=flat-square&logo=Vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vscode-3590F3?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-</p>
+  
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  
+ 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+  <br>
+
+
+  <img src="https://img.shields.io/badge/RaspberryPi-EF476F?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Arduino-1B9AAA?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <br>
+
+
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+</div>
 
 ### Projects
 [![Github: ramenV2](https://img.shields.io/badge/Github-ramenV2-6528F7.svg)](https://github.com/appoung/ramen_storageV2)
