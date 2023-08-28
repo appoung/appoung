@@ -44,6 +44,7 @@
  
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/microsoft Azure-397CB0?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <br>
 
 
